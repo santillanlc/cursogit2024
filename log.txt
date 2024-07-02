@@ -1,0 +1,29 @@
+commit efa60189bd7f776d1de0f118856e9d06d920d3df
+Author: Luis Carlos <santillan.itc@gmail.com>
+Date:   Mon Jul 1 17:50:14 2024 -0700
+
+    footer
+
+commit 0081146f60f51f67820b9c683ecf36b4da0b00e2
+Author: Luis Carlos <santillan.itc@gmail.com>
+Date:   Mon Jul 1 17:45:58 2024 -0700
+
+    Parrafo descriptivo
+
+commit 1e93843a91a2bedf99adfbe11b3ec96fab4aeddd
+Author: Luis Carlos <santillan.itc@gmail.com>
+Date:   Mon Jul 1 17:42:29 2024 -0700
+
+    logotipo
+
+commit 10b364fe61224caaad44c1d79d6cb7d02658a5e5
+Author: Luis Carlos <santillan.itc@gmail.com>
+Date:   Mon Jul 1 17:37:27 2024 -0700
+
+    titulo del proyecto
+
+commit e3f513e482f49adf51ed27ab2d660c728210989b
+Author: Luis Carlos <santillan.itc@gmail.com>
+Date:   Mon Jul 1 17:23:05 2024 -0700
+
+    Proyecto base
